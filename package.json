@@ -1,0 +1,16 @@
+{
+  "name": "pedidos_medieval",
+  "version": "1.0.0",
+  "description": " ",
+  "main": "servidor/server.js",
+  "scripts": {
+    "dev": "node servidor/server.js"
+  },
+  "keywords": [],
+  "author": "bruno vascon",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
